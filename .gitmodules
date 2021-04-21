@@ -1,3 +1,6 @@
 [submodule "backEnd"]
 	path = backEnd
-	url = ./backEnd
+	url = https://github.com/XiiinSheng/birthday-website.git
+[submodule "frontEnd/birthday-website"]
+	path = frontEnd/birthday-website
+	url = https://github.com/XiiinSheng/birthday-website.git
