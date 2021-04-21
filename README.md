@@ -27,6 +27,8 @@ API coding: Express.js
 Package management: Node.js  
 Hosting: Heroku
 
+## Notes
+In the preview, there are two black triangles above and below the white section. This is created by the website cropping extension. In the original site, these areas are light blue background image.  
 
 ## References
 See in "About" page of website. 
