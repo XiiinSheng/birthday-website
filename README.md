@@ -9,6 +9,7 @@ https://birthday-website-xin-sheng.herokuapp.com/
 ### Link:
 https://github.com/XiiinSheng/birthday-website-frontend
 
+### Development Process:
 UI design app: Adobe XD   
 Dynamic element structure: React.js  
 Style coding: CSS  
@@ -19,6 +20,7 @@ Hosting: Heroku
 ### Link: 
 https://github.com/XiiinSheng/birthday-website-backend
 
+### Development Process:
 Database: MongoDB  
 API coding: Express.js  
 Package management: Node.js  
