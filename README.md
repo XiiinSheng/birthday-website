@@ -4,6 +4,7 @@ This is a website developed by Xin Sheng, and the purpose of this website is to 
 
 ## Website Link
 https://birthday-website-xin-sheng.herokuapp.com/
+Note: Due to the auto sleep of Heroku Dynos, loading the website after 30 minutes of server inactivity will be extremely slow. Please be patient. 
 
 ## FrontEnd
 ### Link:
